@@ -1,0 +1,10 @@
+*.csv
+!class_labels.csv
+classes/
+*.jar
+*.class
+pig/output/
+output/
+*.log
+pig_*.log
+Thumbs.db
